@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T07:59:07.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.1" etag="AYI01aeZjFLLatOxarsB" type="github"><diagram id="77VoBjdvd10wVAVss19b">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-21T08:37:02.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="kpqD9_DoYVcnd6P7CBRK" version="14.1.1" type="github">
+  <diagram id="77VoBjdvd10wVAVss19b" name="第 1 页">
+    <mxGraphModel dx="915" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="DmZeim_yMHcN5CCjSbAa-2" target="DmZeim_yMHcN5CCjSbAa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-2" value="电信宽带300M" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="DmZeim_yMHcN5CCjSbAa-3" target="DmZeim_yMHcN5CCjSbAa-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-3" value="静态IP&lt;br&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="545" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="DmZeim_yMHcN5CCjSbAa-5" target="DmZeim_yMHcN5CCjSbAa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="DmZeim_yMHcN5CCjSbAa-5" target="DmZeim_yMHcN5CCjSbAa-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-5" value="光猫" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="DmZeim_yMHcN5CCjSbAa-6" target="DmZeim_yMHcN5CCjSbAa-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="653" y="155" />
+              <mxPoint x="653" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="DmZeim_yMHcN5CCjSbAa-6" target="DmZeim_yMHcN5CCjSbAa-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="653" y="155" />
+              <mxPoint x="653" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-6" value="软路由" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.proxy_server;" vertex="1" parent="1">
+          <mxGeometry x="490" y="102.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="DmZeim_yMHcN5CCjSbAa-9" target="DmZeim_yMHcN5CCjSbAa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-9" value="路由器" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="265" y="555" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-11" value="外部服务器" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="500" y="520" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-15" value="0段" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="710" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-16" value="10段" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="710" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DmZeim_yMHcN5CCjSbAa-19" value="77段" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
